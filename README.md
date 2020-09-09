@@ -1,16 +1,18 @@
-# Влад Куликов — @1nd3e
+# Vlad Kulikov — @1nd3e
 
-Привет! Меня зовут Влад, я iOS-разработчик. Умею в маркетинг и дизайн. Немного предприниматель. Мечтаю создать свой Google в сфере мобильной разработки.
+Hi, I'm Vlad — an iOS developer from Saint Petersburg. I design and develop apps for iOS since late 2018.
 
-### Над чем работаю
+### My projects on the App Store
 
-В настоящее время я работаю над пет-проектом — приложением для безопасного хранения паролей с облачной синхронизацией между устройствами.
+* [Bubbless](https://apps.apple.com/app/id1510547305) — a simple and quite addictive puzzle.
+* [Newton Trails](https://apps.apple.com/app/id1488769404) — platformer.
+* [Pongmates](https://apps.apple.com/app/id1461716135) — ping-pong for 2 players.
 
-### Я в сети
+### What I'm working on
 
-* Твиттер: [@1nd3e](https://twitter.com/1nd3e)
-* Электропочта: [vlad@1nd3e.ru](mailto:vlad@1nd3e.ru)
+I'm currently working on a personal project — an app that helps people to deal with panic disorder.
 
-### Случайный факт обо мне
+### Get In Touch
 
-Когда я взялся делать Pongmates, я совсем ничего не знал об iOS-разработке. Однако, благодаря этой идее (создать пинг-понг для игры вдвоём на одном экране), я преодолел барьер и с тех пор не прекращаю учиться.
+* Follow me on Twitter — [@1nd3e](https://twitter.com/1nd3e)
+* E-Mail — [vlad@1nd3e.ru](mailto:vlad@1nd3e.ru)
