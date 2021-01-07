@@ -14,5 +14,5 @@ I'm currently working on a personal project — an app that helps people to deal
 
 ### Get In Touch
 
-* Follow me on Twitter — [@1nd3e](https://twitter.com/weakvar)
-* E-Mail — [vlad@1nd3e.ru](mailto:vlad@weakvar.com)
+* Follow me on Twitter — [@weakvar](https://twitter.com/weakvar)
+* E-Mail — [vlad@weakvar.com](mailto:vlad@weakvar.com)
