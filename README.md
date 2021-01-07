@@ -1,4 +1,4 @@
-# Vladislav Len — @1nd3e
+# Vladislav Len — @weakvar
 
 Hi, I'm Vlad — an iOS developer from Saint Petersburg. I design and develop apps for iOS since late 2018.
 
@@ -14,5 +14,5 @@ I'm currently working on a personal project — an app that helps people to deal
 
 ### Get In Touch
 
-* Follow me on Twitter — [@1nd3e](https://twitter.com/1nd3e)
-* E-Mail — [vlad@1nd3e.ru](mailto:vlad@1nd3e.ru)
+* Follow me on Twitter — [@1nd3e](https://twitter.com/weakvar)
+* E-Mail — [vlad@1nd3e.ru](mailto:vlad@weakvar.com)
