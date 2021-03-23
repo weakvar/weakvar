@@ -1,16 +1,16 @@
 # Vladislav Len — @weakvar
 
-Hi, I'm Vlad — an iOS developer from Saint Petersburg. I design and develop apps for iOS since late 2018.
+Hey, I'm an iOS developer from Saint Petersburg. I design and develop apps for iOS since late 2018.
 
-### My projects on the App Store
+### Recent projects
 
-* [Bubbless](https://apps.apple.com/app/id1510547305) — a simple and quite addictive puzzle.
-* [Newton Trails](https://apps.apple.com/app/id1488769404) — platformer.
-* [Pongmates](https://apps.apple.com/app/id1461716135) — ping-pong for 2 players.
+* [Draftshot](https://apps.apple.com/app/id1552551095) — a ML-based app that predicts how much popular might be your upcoming shots on Dribbble.
+* [Maindo](apps.apple.com/app/id1550398651) — a new way for keeping a diary. Currently in development.
 
-### What I'm working on
-
-I'm currently working on a personal project — an app that helps people to deal with panic disorder.
+### Other
+* [Bubbless](https://apps.apple.com/app/id1510547305) — a simple Match-3 game.
+* [Newton Trails](https://apps.apple.com/app/id1488769404) — a physics-based platformer.
+* [Pongmates](https://apps.apple.com/app/id1461716135) — a ping-pong for two local players.
 
 ### Get In Touch
 
