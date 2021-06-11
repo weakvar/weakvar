@@ -1,11 +1,11 @@
 # Vladislav Len — @weakvar
 
-Hey, I'm an iOS developer from Saint Petersburg. I design and develop apps for iOS since late 2018.
+Hey, I’m a mobile developer from Saint Petersburg, Russia.
 
 ### Recent projects
 
 * [Draftshot](https://apps.apple.com/app/id1552551095) — a ML-based app that predicts how much popular might be your upcoming shots on Dribbble.
-* [Maindo](apps.apple.com/app/id1550398651) — a new way for keeping a diary. Currently in development.
+* [Maindo](apps.apple.com/app/id1550398651) — a new way for keeping a diary.
 
 ### Other
 * [Bubbless](https://apps.apple.com/app/id1510547305) — a simple Match-3 puzzle.
