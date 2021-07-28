@@ -1,18 +1,12 @@
 # Vladislav Len — @weakvar
 
-Hey, I’m a mobile developer from Saint Petersburg, Russia.
+Hey, I’m a mobile developer from Saint Petersburg, Russia. I design and develop apps since late 2018. Currently working as a Flutter Developer at [igooods](https://igooods.ru) — e-grocery delivery service.
 
-### Recent projects
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weakvar&count_private=true&include_all_commits=true&hide_title=true&show_icons=true&hide_border=true)](https://github.com/weakvar)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weakvar&hide=html&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-* [Draftshot](https://apps.apple.com/app/id1552551095) — a ML-based app that predicts how much popular might be your upcoming shots on Dribbble.
-* [Maindo](apps.apple.com/app/id1550398651) — a new way for keeping a diary.
-
-### Other
-* [Bubbless](https://apps.apple.com/app/id1510547305) — a simple Match-3 puzzle.
-* [Newton Trails](https://apps.apple.com/app/id1488769404) — yet another physics-based platformer.
-* [Pongmates](https://apps.apple.com/app/id1461716135) — a ping-pong for two local players.
-
-### Get In Touch
+#### Get In Touch
 
 * Follow me on Twitter — [@weakvar](https://twitter.com/weakvar)
 * E-Mail — [vlad@weakvar.com](mailto:vlad@weakvar.com)
+* I'm also available on Telegram — [@weakvar](https://t.me/weakvar)
