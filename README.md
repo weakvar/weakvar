@@ -1,4 +1,4 @@
-# Ladislao Len — @weakvar
+# Vladislav Kulikov — @weakvar
 
 Hey, I’m a mobile developer from Saint Petersburg, Russia. I design and develop apps since late 2018. Currently working as an iOS/Flutter Developer at [igooods](https://igooods.ru) — e-grocery delivery service.
 
@@ -8,5 +8,5 @@ Hey, I’m a mobile developer from Saint Petersburg, Russia. I design and develo
 #### Get In Touch
 
 * Follow me on Twitter — [@weakvar](https://twitter.com/weakvar)
-* E-Mail — [ladislao@len.com.ru](mailto:ladislao@len.com.ru)
+* E-Mail — [v.kulikov@unreleasedapps.com](mailto:v.kulikov@unreleasedapps.com)
 * I'm also available on Telegram — [@weakvar](https://t.me/weakvar)
