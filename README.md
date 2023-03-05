@@ -6,11 +6,11 @@
 
 ### Apps
 
-* [Anysub](https://apps.apple.com/app/id1615546730) — a subscription manager that available for free on iOS.
+* [Anysub](https://apps.apple.com/app/id1615546730) — a free subscription manager for iOS.
 
 ### Libraries & Frameworks
 
-* [FrameBuilder](https://github.com/weakvar/FrameBuilder) — a tiny library designed for building frame-based views on UIKit in an easy to understand syntax inspired by AutoLayout.
+* [FrameBuilder](https://github.com/weakvar/FrameBuilder) — a tiny library that lets you layout views on frames, inspired by AutoLayout.
 
 ### Get In Touch
 
